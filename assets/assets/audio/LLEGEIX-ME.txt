@@ -1,0 +1,11 @@
+POSA AQUÍ ELS 6 FITXERS MP3 (amb aquests noms exactes):
+
+  i_imaginat_un_nen.mp3          ->  Imagina't un nen (Manel)
+  p_pla_quinquennal.mp3          ->  Pla quinquennal (Manel)
+  h_lhivern.mp3                  ->  L'hivern (que la van abduir) (Els Amics de les Arts)
+  o_els_ocells.mp3               ->  Els ocells (Els Amics de les Arts)
+  n_nit_freda_per_ser_abril.mp3  ->  Nit freda per ser abril (Manel)
+  e_exercici_seixanta.mp3        ->  Exercici seixanta (Els Amics de les Arts)
+
+Si vols canviar els noms, edita'ls també a lib/data.dart (camp assetPath).
+Aquest fitxer es pot esborrar; només cal que la carpeta tingui els mp3.
